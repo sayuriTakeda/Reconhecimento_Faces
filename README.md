@@ -1,4 +1,4 @@
-Reconhecimento de faces criado com álgebra linear e PCA :satisfied: 
+Reconhecimento de faces criado com álgebra linear e PCA :coffee: 
 
 
 Base_de_Dados
